@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A297B5CA-BD7E-48DF-8DEF-3E2CCE313D23}|Data Types\\Data Types.csproj|c:\\users\\prathamesh\\source\\repos\\c# programming\\data types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A297B5CA-BD7E-48DF-8DEF-3E2CCE313D23}|Data Types\\Data Types.csproj|solutionrelative:data types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1362F01-FCAB-4707-9478-3E26179B7921}|Type Casting\\Type Casting.csproj|c:\\users\\prathamesh\\source\\repos\\c# programming\\type casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1362F01-FCAB-4707-9478-3E26179B7921}|Type Casting\\Type Casting.csproj|solutionrelative:type casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6520-978F-4969-B740-B36F55291DC3}|Operators\\Operators.csproj|c:\\users\\prathamesh\\source\\repos\\c# programming\\operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B6520-978F-4969-B740-B36F55291DC3}|Operators\\Operators.csproj|solutionrelative:operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C7849B-7344-4104-B70E-D9CD5704946C}|Variables\\Variables.csproj|c:\\users\\prathamesh\\source\\repos\\c# programming\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C7849B-7344-4104-B70E-D9CD5704946C}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Operators\\Program.cs",
+              "RelativeToolTip": "Operators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:44:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Type Casting\\Program.cs",
+              "RelativeDocumentMoniker": "Type Casting\\Program.cs",
+              "ToolTip": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Type Casting\\Program.cs",
+              "RelativeToolTip": "Type Casting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:24:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Data Types\\Program.cs",
+              "RelativeDocumentMoniker": "Data Types\\Program.cs",
+              "ToolTip": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Data Types\\Program.cs",
+              "RelativeToolTip": "Data Types\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:39:58.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\Prathamesh\\source\\repos\\C# Programming\\Variables\\Program.cs",
+              "RelativeToolTip": "Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:30:09.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

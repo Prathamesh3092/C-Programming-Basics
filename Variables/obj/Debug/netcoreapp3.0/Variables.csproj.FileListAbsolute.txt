@@ -1,0 +1,13 @@
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\bin\Debug\netcoreapp3.0\Variables.exe
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\bin\Debug\netcoreapp3.0\Variables.deps.json
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\bin\Debug\netcoreapp3.0\Variables.runtimeconfig.json
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\bin\Debug\netcoreapp3.0\Variables.runtimeconfig.dev.json
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\bin\Debug\netcoreapp3.0\Variables.dll
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\bin\Debug\netcoreapp3.0\Variables.pdb
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\obj\Debug\netcoreapp3.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\obj\Debug\netcoreapp3.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\obj\Debug\netcoreapp3.0\Variables.AssemblyInfo.cs
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\obj\Debug\netcoreapp3.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\obj\Debug\netcoreapp3.0\Variables.dll
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\obj\Debug\netcoreapp3.0\Variables.pdb
+C:\Users\Prathamesh\source\repos\C# Programming\Variables\obj\Debug\netcoreapp3.0\Variables.genruntimeconfig.cache

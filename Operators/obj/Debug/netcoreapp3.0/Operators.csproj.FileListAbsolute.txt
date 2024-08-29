@@ -1,0 +1,13 @@
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\obj\Debug\netcoreapp3.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfo.cs
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\obj\Debug\netcoreapp3.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\bin\Debug\netcoreapp3.0\Operators.exe
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\bin\Debug\netcoreapp3.0\Operators.deps.json
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.json
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.dev.json
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\bin\Debug\netcoreapp3.0\Operators.dll
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\bin\Debug\netcoreapp3.0\Operators.pdb
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\obj\Debug\netcoreapp3.0\Operators.dll
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\obj\Debug\netcoreapp3.0\Operators.pdb
+C:\Users\Prathamesh\source\repos\C# Programming\Operators\obj\Debug\netcoreapp3.0\Operators.genruntimeconfig.cache
